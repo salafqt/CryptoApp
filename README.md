@@ -26,7 +26,7 @@ A mobile app built with Ionic Vue to fetch and display cryptocurrency data from 
     ```
 2. Navigate to the project directory:
     ```bash
-    cd CryptoPriceTracker
+    cd CryptoApp
     ```
 3. Install dependencies:
     ```bash
