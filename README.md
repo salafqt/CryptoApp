@@ -22,7 +22,7 @@ A mobile app built with Ionic Vue to fetch and display cryptocurrency data from 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/CryptoPriceTracker.git
+    git clone https://github.com/salafqt/CryptoApp.git
     ```
 2. Navigate to the project directory:
     ```bash
